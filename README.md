@@ -4,8 +4,7 @@
 # ⚒️Tecnologias e Linguagens Utlizadas
 🔑Linguagem C
 #
-🐺 Git
-#
+🐺 Git #
 # 🤖 Funcionalidades
 📱 Operações básicas: Soma, e multiplicação de polinômios
 #
