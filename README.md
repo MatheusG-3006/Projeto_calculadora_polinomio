@@ -1,6 +1,12 @@
-# Calculadora de Polinômios ➕➖✖️➗🗯️
-# 🖥️ | O Projeto consiste em uma calculadora para soma e multiplicação de Polinômios, ajudando em cálculos e visualização avançada do passo a passo feito
+# 🧮 Calculadora de Polinômios em C ➕➖✖️➗
+# ✔️ Solução robusta para operações polinomiais com detalhamento passo a passo
 
-# 📟 | Tecnologias Utilizadas: Linguagem C
+# ⚒️Tecnologias e Linguagens Utlizadas
+# 🔑Linguagem C
+# 🐺 Git
 
 
+# ✨ Funcionalidades
+# Operações básicas: Soma, subtração e multiplicação de polinômios
+# Visualização clara: Exibição detalhada de cada etapa do cálculo
+# Precisão: Algoritmos otimizados em C para desempenho
