@@ -6,5 +6,5 @@
 🐺 Git
 
 # 🤖 Funcionalidades
-📱 Operações básicas: Soma, subtração e multiplicação de polinômios
+📱 Operações básicas: Soma, e multiplicação de polinômios
 🧩 Visualização clara: Exibição detalhada de cada etapa do cálculo
