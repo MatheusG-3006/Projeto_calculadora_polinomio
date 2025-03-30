@@ -1,5 +1,5 @@
 # 🧮 Calculadora de Polinômios em C ➕➖✖️➗
-# ✔️ Solução robusta para operações polinomiais com detalhamento passo a passo
+# ✔️ Solução para operações polinomiais
 
 # ⚒️Tecnologias e Linguagens Utlizadas
 # 🔑Linguagem C
