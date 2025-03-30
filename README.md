@@ -5,7 +5,7 @@
 🔑Linguagem C
 #
 🐺 Git
-
+#
 # 🤖 Funcionalidades
 📱 Operações básicas: Soma, e multiplicação de polinômios
 #
