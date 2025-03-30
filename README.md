@@ -1,5 +1,5 @@
-# 🦾 CALCULADORA DE POLINÔMIOS EM C ➕➖✖️➗
-
+# 🦾 CALCULADORA DE POLINÔMIOS ➕➖✖️➗
+-✔️ Operações polinomiais
 ## ⚒️ TECNOLOGIAS UTILIZADAS
 - 🔑**Linguagem C**  
 - 🐺**Git**  
