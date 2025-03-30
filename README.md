@@ -1,11 +1,12 @@
-# 🦾 Calculadora de Polinômios em C ➕➖✖️➗
-✔️ Operações polinomiais
+# 🦾 CALCULADORA DE POLINÔMIOS EM C ➕➖✖️➗
 
-# ⚒️Tecnologias e Linguagens Utlizadas
-🔑Linguagem C
-#
-🐺 Git #
-# 🤖 Funcionalidades
-📱 Operações básicas: Soma, e multiplicação de polinômios
-#
-🧩 Visualização clara: Exibição detalhada de cada etapa do cálculo
+## ⚒️ TECNOLOGIAS UTILIZADAS
+- **Linguagem C**  
+- **Git**  
+
+## 🤖 FUNCIONALIDADES
+- **Operações básicas**  
+  ➕ Soma de polinômios  
+  ✖️ Multiplicação de polinômios  
+- **Visualização detalhada**  
+  � Exibição passo-a-passo dos cálculos  
