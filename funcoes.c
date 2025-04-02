@@ -100,11 +100,13 @@ void visualizarPassoaPasso(int grau1, float coeficiente1[], int grau2, float coe
 }
 
 void visualizarpassoapassoSoma(int grau1, float coeficiente1[], int grau2, float coeficiente2[]) {
-    printf("Cálculo da soma dos polinômios:\n\n");
-
+       printf("Soma dos polinômios:\n\n");
     int grauResultado = (grau1 > grau2) ? grau1 : grau2;
+
     for (int i = grauResultado; i >= 0; i--) {
         float resultado = coeficiente1[i] + coeficiente2[i];
+        
+        printf("Soma do coeficiente de x^%d: %.2f + %.2f = %.2f\n", i, coeficiente1[i], coeficiente2[i], resultado);
 
         if (resultado != 0) {
             if (resultado > 0 && i != grauResultado) {
